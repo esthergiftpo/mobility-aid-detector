@@ -1,4 +1,3 @@
-OpenCV
 Flask
 tensorflow
 Pillow
