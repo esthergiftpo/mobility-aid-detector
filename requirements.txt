@@ -1,5 +1,0 @@
-OpenCV
-Flask
-tensorflow
-Pillow
-numpy
